@@ -1,0 +1,33 @@
+name: Generate HTML
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install jinja2  # Instala dependencias si las tienes
+
+    - name: Generate HTML
+      run: |
+        python tu_script.py  # Reemplaza con el nombre de tu script Python
+        git config --local user.email "you@example.com"
+        git config --local user.name "Your Name"
+        git add index.html
+        git commit -m "Actualizar archivo HTML"
+        git push origin main
