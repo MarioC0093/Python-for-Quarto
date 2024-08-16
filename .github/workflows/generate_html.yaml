@@ -25,7 +25,7 @@ jobs:
 
     - name: Generate HTML
       run: |
-        python try_01.ipynb  # Reemplaza con el nombre de tu script Python
+        python try_02.ipynb  # Reemplaza con el nombre de tu script Python
         git config --local user.email "you@example.com"
         git config --local user.name "Your Name"
         git add index.html
