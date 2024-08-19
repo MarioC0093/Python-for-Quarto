@@ -1,0 +1,11 @@
+---
+title: "Proyecto Template"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# About
+
+Este es un fichero qmd creado desde Visual Studio Code cuya salida es un fichero html que se guarda automáticamente en la carpeta _output. El directorio de esta carpeta de salida se indica en el fichero _quarto.yaml.

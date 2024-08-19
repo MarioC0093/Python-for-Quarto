@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Proyecto Template",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nAbout\nEste es un fichero qmd creado desde Visual Studio Code cuya salida es un fichero html que se guarda automáticamente en la carpeta _output. El directorio de esta carpeta de salida se indica en el fichero _quarto.yaml."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Pues este sitio es muy curioso."
+  }
+]
