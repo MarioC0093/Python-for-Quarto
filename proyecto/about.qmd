@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-About this site
+Pues este sitio es muy curioso.
