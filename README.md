@@ -17,7 +17,7 @@ Inicialmente se creó como un repositorio público ya que no se puede trabajar d
 
 # Proyectos
 
-Tenemos la opción de trabajar con n proyecto Quarto. Al crearlo tendremos que elegir la carpeta de trabajo (carpeta del respositorio GitHub) y automáticamente tendremos la siguiente estructura:
+Tenemos la opción de trabajar con un proyecto Quarto. Al crearlo tendremos que elegir la carpeta de trabajo (carpeta donde tenemos clonado el respositorio GitHub) y automáticamente tendremos la siguiente estructura:
 
 - :file_folder: .quarto
 - :file_folder: _site
@@ -25,6 +25,8 @@ Tenemos la opción de trabajar con n proyecto Quarto. Al crearlo tendremos que e
 - about.qmd
 - index.qmd
 - styles.css
+
+❕ En este repositorio se ha creado la carpeta _proyecto_template_ como caso de uso.
 
 Podemos añadir una carpeta _output e indicar desde el yaml que este será nuestro directorio de salida donde se creará el html y que usaremos como carpeta origen en Settings/Pages para nuestra página del proyecto.
 
