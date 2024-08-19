@@ -28,7 +28,9 @@ Tenemos la opción de trabajar con un proyecto Quarto. Al crearlo tendremos que 
 
 ❕ En este repositorio se ha creado la carpeta _proyecto_template_ como caso de uso.
 
-Podemos añadir una carpeta _output e indicar desde el yaml que este será nuestro directorio de salida donde se creará el html y que usaremos como carpeta origen en Settings/Pages para nuestra página del proyecto.
+Podemos añadir una carpeta **_output** e indicar desde el yaml que este será nuestro directorio de salida donde se creará el html y que usaremos como carpeta origen en Settings/Pages para nuestra página del proyecto.
+
+Para adaptarnos a la estructura por defecto de GitHub, usaremos la carpeta docs en vez de _output.
 
 Nuestro fichero yaml quedaría de la siguiente manera:
 
