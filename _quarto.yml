@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: _output
+
+website:
+  title: "Draft"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+format:
+  html:
+    code-link: TRUE
+    css: css/styles.css
+    toc: true
+    toc-location: left
+
+
+
