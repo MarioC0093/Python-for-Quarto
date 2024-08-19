@@ -4,7 +4,7 @@ He desarrollado este repositorio público para hacer mis pruebas con código Pyt
 
 Inicialmente se creó como un repositorio público ya que no se puede trabajar desde GitKraken con repositorios privados en la versión gratuita. Espero que pueda servir de guía para aquel que se encuentre con este repositorio en su camino a inspeccionar las posibles y variadas opciones para crear su repositorio usando código Python.
 
-[https://marioc0093.github.io/Python_html_test/](https://marioc0093.github.io/Python_html_test/)
+[https://marioc0093.github.io/Python-for-Quarto/](https://marioc0093.github.io/Python-for-Quarto/)
 
 # Requisitos
 
