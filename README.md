@@ -85,8 +85,8 @@ Siguiendo estas recomendaciones se debería resolver:
 
 2. Cambier el intérprete actual.
    2.1 Seleccionar el nombre del intérprete en la barra de estado. VS nos recomienda el intérprete a usar.
-   <img src="https://github.com/user-attachments/assets/19dc6757-cb1d-4e29-9531-48a0912b446f" alt="image" width="500"/>
-   
+   &nbsp;
+   <img src="https://github.com/user-attachments/assets/19dc6757-cb1d-4e29-9531-48a0912b446f" alt="image" width="500"/>&nbsp;
    <img src="https://github.com/user-attachments/assets/607ac344-b51a-47c1-8197-b45a87ae8e3d" alt="image" width="500"/>
    
 4. Verificar que Quarto para usar la instalación correcta de Python.  
